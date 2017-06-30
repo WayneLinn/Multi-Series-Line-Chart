@@ -1,6 +1,6 @@
-#Readme
+# Readme
 
-##How to use d3.js
+## How to use d3.js
 
 * Step one: Enter `python -m http.server` in command line within the file's directory
 
@@ -12,11 +12,11 @@
 
 
 
-##Multi Series Chart Line
+## Multi Series Chart Line
+
 ![example](/line_chart.png)
 
 
-##Author
-在使用中有任何问题，欢迎反馈给我，可以用以下联系方式跟我交流
+## Author
 
 * Email: waynelin4wr@gmail.com
