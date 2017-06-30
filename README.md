@@ -6,7 +6,7 @@
 
 ![python_demo](/python.png)
 
-* Step two: Enter 127.0.0.1:/index.html
+* Step two: Enter 127.0.0.1/index.html
 
 ![example](/browser.png)
 
